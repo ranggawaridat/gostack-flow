@@ -1,0 +1,6 @@
+{
+  "name": "GoStack Flow",
+  "description": "Interactive visual workflow & coding lab for Go, Chi, MySQL, Redis, Auth/RBAC, Asynq, Caddy, Docker Compose, and Git.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
